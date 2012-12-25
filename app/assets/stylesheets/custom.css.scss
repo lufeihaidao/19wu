@@ -1,0 +1,29 @@
+@import "bootstrap";
+.container{
+  margin-top: 20px;
+}
+.index-header{
+  height: 32px;
+  line-height: 32px;
+}
+.index-contain_signup{
+  padding: 40px 0px 20px 0px;
+  background-color: #eee;
+  .span8{
+    padding: 0px 40px 0 40px;
+  }
+  .span4{
+    .btn{
+      width: 220px;  
+    }
+  }
+}
+.index-contain_more{
+  padding: 20px;
+}
+.index-footer{
+  padding: 20px;  
+  background-color: #eee;
+  height: 60px;
+  line-height: 60px;
+}
