@@ -25,3 +25,4 @@ doc/
 public/assets/
 .tags*
 .gemtags
+*.swp
